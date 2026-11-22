@@ -1,0 +1,12 @@
+{
+  "name": "testcode",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.2.10",
+    "bcrypt": "^5.0.1"
+  }
+}
